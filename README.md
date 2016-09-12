@@ -1,5 +1,5 @@
 # LoaderViewXamarin
-Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded
+Library that enables TextView or ImageView to show loading animation while waiting for the text and image get loaded
 
 Xamarin bindings library for loaderviewlibrary [library](https://github.com/elye/loaderviewlibrary).
 
