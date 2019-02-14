@@ -2,9 +2,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/Xam.Plugins.Android.LoaderView.svg?style=flat&max-age=86400)](https://www.nuget.org/packages/Xam.Plugins.Android.LoaderView/)
 
-A library that enables TextView and ImageView to show loading animations, while waiting for the text and image to get loaded.
-
-This is a Xamarin bindings library for loaderviewlibrary [library](https://github.com/elye/loaderviewlibrary).
+This is a Xamarin bindings library for loaderviewlibrary [library](https://github.com/elye/loaderviewlibrary), a library that enables TextViews and ImageViews to show loading animations, while waiting for the text and images to get loaded.
 
 #### Preview
 ![Timer Image](https://static.wixstatic.com/media/d748c3_28381c0f110f4dc68fcd340b503f86a2~mv2.gif)
