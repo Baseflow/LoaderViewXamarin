@@ -4,6 +4,12 @@
 
 This is a Xamarin bindings library for loaderviewlibrary [library](https://github.com/elye/loaderviewlibrary), a library that enables TextViews and ImageViews to show loading animations, while waiting for the text and images to get loaded.
 
+# Support
+
+* Feel free to open an issue. Make sure to use one of the templates!
+* Commercial support is available. Integration with your app or services, samples, feature request, etc. Email: [hello@baseflow.com](mailto:hello@baseflow.com)
+* Powered by: [baseflow.com](https://baseflow.com)
+
 #### Preview
 ![Timer Image](https://static.wixstatic.com/media/d748c3_28381c0f110f4dc68fcd340b503f86a2~mv2.gif)
 
